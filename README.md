@@ -7,7 +7,6 @@ JavaScript Developer
 I have been learning to code for about a year or so. I started out with HTML and CSS, then went on to working with Java for a while, but I enjoy working more with JavaScript. I have also been jumping in and out of Swift, but I decided to just stick to learning both JavaScript an TypeScript. I'm currently going into my freshmen year at Indiana University Bloomington studying CS.
 
 * 🌍  I'm based in Indiana currently
-* ✉️  You can contact me at [urlaweblink@gmail.com](mailto:urlaweblink@gmail.com)
 * 🧠  I'm learning JavaScript and TypeScript
 * 🤝  I'm open to collaborating on anything
 
