@@ -1,7 +1,7 @@
 Hi 👋 My name is Uziel
 ====================
 
-JavaScript Developer
+Computer Science Student
 --------------------
 
 I have been learning to code for about a year or so. I started out with HTML and CSS, then went on to working with Java for a while, but I enjoy working more with JavaScript. I have also been jumping in and out of Swift, but I decided to just stick to learning both JavaScript an TypeScript. I'm currently going into my freshmen year at Indiana University Bloomington studying CS.
