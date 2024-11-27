@@ -1,4 +1,4 @@
-# 🖐️ About Me:
+# ☝ About Me:
 Hi, I'm Uziel Rivera-Lopez, a Computer Science student at Indiana University Bloomington, specializing in Artificial Intelligence with minors in Business and Data Science. I enjoy doing research in cancer biology through computational modeling, optimizing workflows for large-scale simulations, and developing machine learning models for gene classification. Alongside my research, I'm an undergraduate instructor, teaching students in programming and data structures. Also, I enjoy tackling complex problems with technology and, finally, I just enjoy helping others 😊 .
 
 
